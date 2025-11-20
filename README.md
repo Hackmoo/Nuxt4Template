@@ -1,4 +1,4 @@
-Nuxt4, Pinia, Tailwind
+Nuxt4, Pinia, Tailwind, Axios
 
 # Nuxt Minimal Starter
 
